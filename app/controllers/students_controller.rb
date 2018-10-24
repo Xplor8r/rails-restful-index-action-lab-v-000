@@ -1,3 +1,3 @@
 class StudentsController < ApplicationController
-  @students = poop
+  @students = ["poop"]
 end
